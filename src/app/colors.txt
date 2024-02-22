@@ -1,0 +1,8 @@
+// Body Colors
+// #001d57, #680068
+
+// Button Background
+// #010029
+
+// Before Colors
+// #00fff7, #ff00f7
